@@ -148,9 +148,8 @@ MIT License - feel free to use for commercial projects!
 
 If this helped you build something cool, give it a star!✨ 
 
----
 
-**Built with ❤️ by [Prapti](https://x.com/praptichilling) for the Solana ecosystem**
+
 
 
 
